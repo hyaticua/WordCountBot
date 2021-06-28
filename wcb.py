@@ -1,11 +1,5 @@
 import discord
 
-# TODO
-# - store last read message timestamps so bot can more intelligently scan for missed messages
-# - issue rescan on shutdown/restart
-# - save state to JSON on shutdown, look for saved state on startup and reinit
-
-
 root_user = 'hyaticua#1259'
 version = '1.0.0_alpha'
 bot_invocation_str = '!wcb'
